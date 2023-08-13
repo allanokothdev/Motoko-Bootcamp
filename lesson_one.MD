@@ -24,15 +24,21 @@ b := 6;
 
 ### Variable Types
 Whenever you want to assign a type to a value , use a colon ":"
-Nat
-
+Nat (Positive numbers)
 let n: Nat = 5;
+let a: Nat = 1 + 1;
+let a: Nat = 10 - 2;
 
-Text
+Text (Strings)
 let t: Text = "Motoko Bootcamp";
 
-Int
+Int (Positive & Negative Numbers)
 let i: Int = -4;
 
-Bool
+Bool (Booleans)
 let light_on : Bool = true;
+
+### Function
+
+Keywords used
+Public/Private - Public is used to declare if a function can be accessed and called by external users or canisters, while Private is used to declare a function that can only be called by the canister itself
