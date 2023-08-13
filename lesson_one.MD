@@ -23,7 +23,7 @@ Reassignment
 b := 6;
 
 ### Variable Types
-
+Whenever you want to assign a type to a value , use a colon ":"
 Nat
 
 let n: Nat = 5;

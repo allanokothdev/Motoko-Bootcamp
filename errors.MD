@@ -4,4 +4,6 @@
 
 This error occurs when you try to reassign an immutable variable.
 
-### 2. 
+### 2. Null Reference Errors
+
+### 3. Accessing Invalid Fields
