@@ -21,3 +21,18 @@ var b = 5;
 
 Reassignment
 b := 6;
+
+### Variable Types
+
+Nat
+
+let n: Nat = 5;
+
+Text
+let t: Text = "Motoko Bootcamp";
+
+Int
+let i: Int = -4;
+
+Bool
+let light_on : Bool = true;
